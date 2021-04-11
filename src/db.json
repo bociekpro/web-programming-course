@@ -1,0 +1,39 @@
+{
+  "reminders": [
+    {
+      "name": "Make an omelette",
+      "timestamp": "2021-11-11T08:00:00.141Z",
+      "id": 2
+    },
+    {
+      "name": "Wash dishes",
+      "timestamp": "2021-11-11T09:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "Buy more eggs",
+      "timestamp": "2021-11-11T13:00:00.000Z",
+      "id": 4
+    },
+    {
+      "name": "Delete me plese!",
+      "timestamp": "2019-01-19T00:15",
+      "id": 1615835558670
+    },
+    {
+      "name": "I learning some react",
+      "timestamp": "2021-03-15T21:12",
+      "id": 1615835576940
+    },
+    {
+      "name": "Test test",
+      "timestamp": "2021-04-01T00:16",
+      "id": 1615835599746
+    },
+    {
+      "name": "Good enough I guess lol",
+      "timestamp": "0123-03-12T12:03",
+      "id": 1615835616931
+    }
+  ]
+}
